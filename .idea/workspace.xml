@@ -1,0 +1,1254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89210fa5-cd21-4bf3-b311-ba2654f581df" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="assignment" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/panel/PublishPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2261">
+              <caret line="205" column="11" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="11" />
+              <folding>
+                <element signature="method#addTitleField#0;class#PublishPanel#0" />
+                <element signature="method#addTextArea#0;class#PublishPanel#0" />
+                <element signature="method#addPublishBtn#0;class#PublishPanel#0" />
+                <element signature="class#3758:4360" />
+                <element signature="method#focusGained#0;class#3758:4360" />
+                <element signature="e#3927#4049#1" />
+                <element signature="method#focusLost#0;class#3758:4360" />
+                <element signature="e#4191#4336#1" />
+                <element signature="class#4422:5010" />
+                <element signature="method#focusGained#0;class#4422:5010" />
+                <element signature="e#4588#4706#1" />
+                <element signature="method#focusLost#0;class#4422:5010" />
+                <element signature="e#4845#4985#1" />
+                <element signature="e#5233#5457#1" />
+                <element signature="e#5538#5715#1" />
+                <element signature="e#6379#6431#1" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/panel/VotePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2641">
+              <caret line="299" column="34" selection-start-line="299" selection-start-column="34" selection-end-line="299" selection-end-column="34" />
+              <folding>
+                <element signature="method#VotePanel#0;class#VotePanel#0" />
+                <element signature="method#initialize#0;class#VotePanel#0" />
+                <element signature="method#addDownPanel#0;class#VotePanel#0" />
+                <element signature="class#4098:4662" />
+                <element signature="method#focusGained#0;class#4098:4662" />
+                <element signature="e#4248#4370#1" />
+                <element signature="method#focusLost#0;class#4098:4662" />
+                <element signature="e#4511#4637#1" />
+                <element signature="class#4702:5767" />
+                <element signature="method#mouseReleased#0;class#4702:5767" />
+                <element signature="e#5012#5157#1" />
+                <element signature="class#5807:6789" />
+                <element signature="method#mouseClicked#0;class#5807:6789" />
+                <element signature="method#mouseReleased#0;class#5807:6789" />
+                <element signature="e#6081#6271#1" />
+                <element signature="e#7459#7540#1" />
+                <element signature="e#7970#8301#1" />
+                <element signature="e#7988#8214#0" />
+                <element signature="e#8239#8291#0" />
+                <element signature="class#Option#0;class#VotePanel#0" />
+                <element signature="method#Option#0;class#Option#0;class#VotePanel#0" />
+                <element signature="method#Option#1;class#Option#0;class#VotePanel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/panel/VotePage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3287">
+              <caret line="233" column="25" selection-start-line="233" selection-start-column="25" selection-end-line="233" selection-end-column="25" />
+              <folding>
+                <element signature="method#VotePage#0;class#VotePage#0" />
+                <element signature="e#1012#1114#1" />
+                <element signature="method#initialize#0;class#VotePage#0" />
+                <element signature="e#2456#2500#0" />
+                <element signature="e#4871#5406#1" />
+                <element signature="e#4923#5392#1" />
+                <element signature="e#4949#5279#0" />
+                <element signature="e#5144#5257#1" />
+                <element signature="e#5305#5374#0" />
+                <element signature="e#5458#5872#1" />
+                <element signature="e#5480#5771#0" />
+                <element signature="e#5797#5858#0" />
+                <element signature="method#addOptions#0;class#VotePage#0" />
+                <element signature="method#addComment#0;class#VotePage#0" />
+                <element signature="method#addScroll#0;class#VotePage#0" />
+                <element signature="class#Option#0;class#VotePage#0" />
+                <element signature="method#Option#0;class#Option#0;class#VotePage#0" />
+                <element signature="method#setClicked#0;class#Option#0;class#VotePage#0" />
+                <element signature="method#isClicked#0;class#Option#0;class#VotePage#0" />
+                <element signature="method#setDefault#0;class#Option#0;class#VotePage#0" />
+                <element signature="class#Comment#0;class#VotePage#0" />
+                <element signature="method#Comment#0;class#Comment#0;class#VotePage#0" />
+                <element signature="method#main#0;class#VotePage#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Server/MyWebSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <folding>
+                <element signature="e#1152#1732#0" />
+                <element signature="e#1738#2411#0" />
+                <element signature="e#1864#1927#1" />
+                <element signature="e#1990#2310#0" />
+                <element signature="e#2160#2245#1" />
+                <element signature="e#2335#2405#0" />
+                <element signature="e#2417#2975#0" />
+                <element signature="e#2547#2616#1" />
+                <element signature="e#2629#2874#0" />
+                <element signature="e#2720#2809#1" />
+                <element signature="e#2899#2969#0" />
+                <element signature="e#2981#3167#0" />
+                <element signature="e#3051#3126#1" />
+                <element signature="e#3292#3409#0" />
+                <element signature="e#3530#3657#0" />
+                <element signature="e#3663#3782#0" />
+                <element signature="e#3908#4040#0" />
+                <element signature="e#4046#4168#0" />
+                <element signature="e#4294#4421#0" />
+                <element signature="e#4427#4551#0" />
+                <element signature="e#4557#4681#0" />
+                <element signature="e#4687#4791#0" />
+                <element signature="e#4797#4906#0" />
+                <element signature="e#4978#5238#0" />
+                <element signature="e#5089#5232#1" />
+                <element signature="e#5163#5222#1" />
+                <element signature="e#5244#9659#0" />
+                <element signature="e#5343#5415#1" />
+                <element signature="e#5428#9584#0" />
+                <element signature="e#5586#5738#1" />
+                <element signature="e#5767#9574#0" />
+                <element signature="e#5799#5985#1" />
+                <element signature="e#5850#5940#1" />
+                <element signature="e#6019#6214#1" />
+                <element signature="e#6073#6169#1" />
+                <element signature="e#6247#6439#1" />
+                <element signature="e#6300#6394#1" />
+                <element signature="e#6477#6657#1" />
+                <element signature="e#6526#6612#1" />
+                <element signature="e#6694#6892#1" />
+                <element signature="e#6749#6847#1" />
+                <element signature="e#6925#7117#1" />
+                <element signature="e#6977#7072#1" />
+                <element signature="e#7153#7336#1" />
+                <element signature="e#7203#7291#1" />
+                <element signature="e#7372#7573#1" />
+                <element signature="e#7428#7528#1" />
+                <element signature="e#7610#7805#1" />
+                <element signature="e#7664#7760#1" />
+                <element signature="e#7835#8227#1" />
+                <element signature="e#7885#8182#1" />
+                <element signature="e#8011#8112#1" />
+                <element signature="e#8262#8460#1" />
+                <element signature="e#8317#8415#1" />
+                <element signature="e#8492#8683#1" />
+                <element signature="e#8543#8638#1" />
+                <element signature="e#8717#8907#1" />
+                <element signature="e#8770#8862#1" />
+                <element signature="e#8937#9120#1" />
+                <element signature="e#8986#9075#1" />
+                <element signature="e#9151#9338#1" />
+                <element signature="e#9201#9293#1" />
+                <element signature="e#9369#9480#1" />
+                <element signature="e#9609#9653#0" />
+                <element signature="e#9665#10038#0" />
+                <element signature="e#9881#10032#1" />
+                <element signature="e#9961#10022#1" />
+                <element signature="e#10044#10191#0" />
+                <element signature="e#10197#10422#0" />
+                <element signature="e#10364#10416#1" />
+                <element signature="e#10428#10534#0" />
+                <element signature="e#10540#10652#0" />
+                <element signature="e#10658#10768#0" />
+                <element signature="e#10774#10876#0" />
+                <element signature="e#10882#10996#0" />
+                <element signature="e#11002#11113#0" />
+                <element signature="e#11119#11223#0" />
+                <element signature="e#11229#11345#0" />
+                <element signature="e#11351#11463#0" />
+                <element signature="e#11469#11646#0" />
+                <element signature="e#11652#11766#0" />
+                <element signature="e#11772#11884#0" />
+                <element signature="e#11890#11999#0" />
+                <element signature="e#12005#12110#0" />
+                <element signature="e#12116#12223#0" />
+                <element signature="e#12229#12314#0" />
+                <element signature="e#12320#12403#0" />
+                <element signature="e#12409#12498#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/panel/comPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="7714">
+              <caret line="432" column="40" selection-start-line="432" selection-start-column="40" selection-end-line="432" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Util/FileUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Server/ServerUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+              <folding>
+                <element signature="docComment;class#ServerUtil#0" />
+                <element signature="method#stream2String#0;class#ServerUtil#0" />
+                <element signature="e#2616#2695#1" />
+                <element signature="docComment;class#Parameter#0;class#ServerUtil#0" />
+                <element signature="e#2958#3023#1" />
+                <element signature="class#HttpRequest#0;class#ServerUtil#0" />
+                <element signature="method#HttpRequest#0;class#HttpRequest#0;class#ServerUtil#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UI/panel/SharePanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3743">
+              <caret line="369" column="20" selection-start-line="369" selection-start-column="20" selection-end-line="369" selection-end-column="20" />
+              <folding>
+                <element signature="method#SharePanel#0;class#SharePanel#0" />
+                <element signature="method#initialize#0;class#SharePanel#0" />
+                <element signature="method#addButtonPanel#0;class#SharePanel#0" />
+                <element signature="method#sendRequest#0;class#SharePanel#0" />
+                <element signature="method#addMainComponent#0;class#SharePanel#0" />
+                <element signature="method#removeFile#0;class#SharePanel#0" />
+                <element signature="method#addFileListener#0;class#File#0;class#SharePanel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>layoutConta</find>
+      <find>getInsets</find>
+      <find>get</find>
+      <find>layoutCon</find>
+      <find>a</find>
+      <find>请输入标题</find>
+      <find>paintCom</find>
+      <find>paintComponent</find>
+      <find>length</find>
+      <find>发布按钮</find>
+      <find>creat</find>
+      <find>create</find>
+      <find>路过</find>
+      <find>system.out</find>
+      <find>Socket clo</find>
+      <find>成功</find>
+      <find>jor</find>
+      <find>OnReadVote</find>
+      <find>readVote</find>
+      <find>addMous</find>
+      <find>createline</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Server/OnErrorListener.java" />
+        <option value="$PROJECT_DIR$/hs_err_pid24524.log" />
+        <option value="$PROJECT_DIR$/src/Server/HttpClient.java" />
+        <option value="$PROJECT_DIR$/src/Server/test.java" />
+        <option value="$PROJECT_DIR$/src/Server/MySendListener.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/RegisterPanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/MyFlowLayout.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyGridBagLayout.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyGridBagConstraints.java" />
+        <option value="$PROJECT_DIR$/src/Server/WebSockerInterface.java" />
+        <option value="$PROJECT_DIR$/src/Server/Server/MyInterface/OnVoteListener.java" />
+        <option value="$PROJECT_DIR$/src/Server/MyInterface/OnVoteListener.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyScrollBarUi.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyScrollBarUI.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/MyButton.java" />
+        <option value="$PROJECT_DIR$/src/util/plat/FileDialogPlatWindows.java" />
+        <option value="$PROJECT_DIR$/src/util/FileDialog.java" />
+        <option value="$PROJECT_DIR$/src/util/plat/FileDialogPlatCommon.java" />
+        <option value="$PROJECT_DIR$/src/online/cszt0/cmt/util/plat/FileDialogPlatWindows.java" />
+        <option value="$PROJECT_DIR$/src/online/cszt0/cmt/util/FileDialog.java" />
+        <option value="$PROJECT_DIR$/src/online/cszt0/cmt/util/plat/FileDialogPlatCommon.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/component/PaintPanel.java" />
+        <option value="$PROJECT_DIR$/src/Server/HttpServlet/FileSerlet.java" />
+        <option value="$PROJECT_DIR$/src/Server/HttpServlet/FileServlet.java" />
+        <option value="$PROJECT_DIR$/src/Util/FileToByte.java" />
+        <option value="$PROJECT_DIR$/src/Util/Test.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/Test.java" />
+        <option value="$PROJECT_DIR$/src/Util/StreamUtil.java" />
+        <option value="$PROJECT_DIR$/src/Util/FileUtil.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/DrawFrame.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/recordPanel.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/Login.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/PaintFrame.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/RecordPanel.java" />
+        <option value="$PROJECT_DIR$/src/Server/MyWebSocket.java" />
+        <option value="$PROJECT_DIR$/src/Server/ServerUtil.java" />
+        <option value="$PROJECT_DIR$/src/Server/Server.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/ToolBarPanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/UIConst.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/MainWindows.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/comPage.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/HomePage.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/SharePanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/PublishPanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/VotePanel.java" />
+        <option value="$PROJECT_DIR$/src/UI/panel/VotePage.java" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Client" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Client" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557548107510" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Server" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\assignment\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\code\Client" />
+      <recent name="D:\code\Client\src\UI\component" />
+      <recent name="D:\code\assignment\src" />
+      <recent name="D:\code\assignment" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.FourthMain">
+    <configuration name="FourthMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Client" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaintFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.panel.PaintFrame" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.panel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecondMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Util.Test" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.panel.Test" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.panel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdMain" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VotePage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UI.panel.VotePage" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UI.component.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.FourthMain" />
+      <item itemvalue="Application.SecondMain" />
+      <item itemvalue="Application.ThirdMain" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.PaintFrame" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.VotePage" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.VotePage" />
+        <item itemvalue="Application.PaintFrame" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89210fa5-cd21-4bf3-b311-ba2654f581df" name="Default Changelist" comment="" />
+      <created>1552219039405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552219039405</updated>
+      <workItem from="1557549799806" duration="1450000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1450000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.5010142" side_tool="true" weight="0.22453083" />
+      <window_info id="Image Layers" order="4" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4919473" visible="true" weight="0.16756032" />
+      <window_info id="Structure" order="6" sideWeight="0.5080527" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="1" sideWeight="0.5013405" side_tool="true" visible="true" weight="0.25475842" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.329429" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.34846267" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49865952" weight="0.2591508" />
+      <window_info anchor="bottom" id="TODO" order="10" weight="0.23572475" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Theme Preview" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="4" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="5" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.31570998" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://D:/java/jar/okhttp/okio-1.14.0.jar!/okio/RealBufferedSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="490" selection-start-line="490" selection-end-line="490" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jar/okhttp/okhttp-3.12.1.jar!/okhttp3/RealCall.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jar/okhttp/okhttp-3.12.1.jar!/okhttp3/Response.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="114" selection-start-line="114" selection-end-line="114" />
+          <folding>
+            <element signature="e#1697#1698#0" expanded="true" />
+            <element signature="e#1729#1730#0" expanded="true" />
+            <element signature="e#3040#3041#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jar/okhttp/okhttp-3.12.1.jar!/okhttp3/OkHttpClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="80" selection-start-line="80" selection-end-line="80" />
+          <folding>
+            <element signature="e#2745#2746#0" expanded="true" />
+            <element signature="e#8291#8292#0" expanded="true" />
+            <element signature="e#8356#8357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/online/cszt0/cmt/util/plat/FileDialogPlatCommon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="43" column="4" lean-forward="true" selection-start-line="43" selection-start-column="4" selection-end-line="43" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/online/cszt0/cmt/util/plat/FileDialogPlatWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/Base64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="549" column="9" lean-forward="true" selection-start-line="549" selection-start-column="9" selection-end-line="549" selection-end-column="9" />
+          <folding>
+            <element signature="e#20766#20767#0" expanded="true" />
+            <element signature="e#20846#20847#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/online/cszt0/cmt/util/FileDialog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JRootPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2441">
+          <caret line="634" column="21" selection-start-line="634" selection-start-column="21" selection-end-line="634" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="671" column="36" selection-start-line="671" selection-start-column="36" selection-end-line="671" selection-end-column="36" />
+          <folding>
+            <element signature="e#23469#23470#0" expanded="true" />
+            <element signature="e#23522#23523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="185" column="22" selection-start-line="185" selection-start-column="22" selection-end-line="185" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Canvas.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="43" column="34" selection-start-line="43" selection-start-column="34" selection-end-line="43" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/DrawFrame.java" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190505235829675.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190505235829659.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190504134551337.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190505224512271.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190504134407818.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190504133847279.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190504133634395.jpg" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/event/WindowAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="3239" column="16" selection-start-line="3239" selection-start-column="16" selection-end-line="3239" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="4361" column="16" selection-start-line="4361" selection-start-column="16" selection-end-line="4361" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/RegisterPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/RecordPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="92" column="28" selection-start-line="92" selection-start-column="28" selection-end-line="92" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initialize#0;class#RecordPanel#0" />
+            <element signature="class#Record#0;class#RecordPanel#0" />
+            <element signature="method#Record#0;class#Record#0;class#RecordPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/component/MyButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/java/jar/okhttp/okhttp-3.12.1.jar!/okhttp3/WebSocket.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/PaintFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="30" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding>
+            <element signature="class#Pen#0;class#PaintFrame#0" />
+            <element signature="e#5830#5831#0" expanded="true" />
+            <element signature="e#5870#5871#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/component/MyButton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/img/20190510132555854.jpg" />
+    <entry file="file://$PROJECT_DIR$/data/img/20190510132537964.jpg" />
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/ToolBarPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="246" column="38" selection-start-line="246" selection-start-column="38" selection-end-line="246" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#ToolBarPanel#0;class#ToolBarPanel#0" />
+            <element signature="e#824#886#0" />
+            <element signature="e#911#1004#0" />
+            <element signature="e#942#994#1" />
+            <element signature="method#userInitialize#0;class#ToolBarPanel#0" />
+            <element signature="e#1094#1152#0" />
+            <element signature="e#1177#1270#0" />
+            <element signature="e#1208#1260#1" />
+            <element signature="method#initialize#0;class#ToolBarPanel#0" />
+            <element signature="method#addButton#0;class#ToolBarPanel#0" />
+            <element signature="e#2349#2526#1" />
+            <element signature="e#2552#2725#1" />
+            <element signature="e#2751#2930#1" />
+            <element signature="class#3301:4347" />
+            <element signature="method#mouseClicked#0;class#3301:4347" />
+            <element signature="method#mouseReleased#0;class#3301:4347" />
+            <element signature="class#4394:5224" />
+            <element signature="method#mouseClicked#0;class#4394:5224" />
+            <element signature="method#mouseReleased#0;class#4394:5224" />
+            <element signature="class#5273:6332" />
+            <element signature="method#mouseClicked#0;class#5273:6332" />
+            <element signature="method#mouseReleased#0;class#5273:6332" />
+            <element signature="method#mouseClicked#0;class#6374:6903" />
+            <element signature="method#mouseReleased#0;class#6374:6903" />
+            <element signature="method#setAllDefault#0;class#ToolBarPanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/StreamUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="314" column="11" selection-start-line="314" selection-start-column="11" selection-end-line="314" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_res.zip/src/online/cszt0/cmt/ui/DownloadFrame.java" />
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/HomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="73" column="38" selection-start-line="73" selection-start-column="38" selection-end-line="73" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#formatTitleLabel#0;class#HomePage#0" />
+            <element signature="method#formatTextLabel#0;class#HomePage#0" />
+            <element signature="method#Announcement#0;class#Announcement#0;class#HomePage#0" />
+            <element signature="method#getTitle#0;class#Announcement#0;class#HomePage#0" />
+            <element signature="method#setAllDefault#0;class#Announcement#0;class#HomePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/MainWindows.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+          <folding>
+            <element signature="method#MainWindows#0;class#MainWindows#0" />
+            <element signature="method#MainWindows#1;class#MainWindows#0" />
+            <element signature="method#userInitialize#0;class#MainWindows#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/UIConst.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/PublishPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2261">
+          <caret line="205" column="11" selection-start-line="205" selection-start-column="11" selection-end-line="205" selection-end-column="11" />
+          <folding>
+            <element signature="method#addTitleField#0;class#PublishPanel#0" />
+            <element signature="method#addTextArea#0;class#PublishPanel#0" />
+            <element signature="method#addPublishBtn#0;class#PublishPanel#0" />
+            <element signature="class#3758:4360" />
+            <element signature="method#focusGained#0;class#3758:4360" />
+            <element signature="e#3927#4049#1" />
+            <element signature="method#focusLost#0;class#3758:4360" />
+            <element signature="e#4191#4336#1" />
+            <element signature="class#4422:5010" />
+            <element signature="method#focusGained#0;class#4422:5010" />
+            <element signature="e#4588#4706#1" />
+            <element signature="method#focusLost#0;class#4422:5010" />
+            <element signature="e#4845#4985#1" />
+            <element signature="e#5233#5457#1" />
+            <element signature="e#5538#5715#1" />
+            <element signature="e#6379#6431#1" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/VotePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2641">
+          <caret line="299" column="34" selection-start-line="299" selection-start-column="34" selection-end-line="299" selection-end-column="34" />
+          <folding>
+            <element signature="method#VotePanel#0;class#VotePanel#0" />
+            <element signature="method#initialize#0;class#VotePanel#0" />
+            <element signature="method#addDownPanel#0;class#VotePanel#0" />
+            <element signature="class#4098:4662" />
+            <element signature="method#focusGained#0;class#4098:4662" />
+            <element signature="e#4248#4370#1" />
+            <element signature="method#focusLost#0;class#4098:4662" />
+            <element signature="e#4511#4637#1" />
+            <element signature="class#4702:5767" />
+            <element signature="method#mouseReleased#0;class#4702:5767" />
+            <element signature="e#5012#5157#1" />
+            <element signature="class#5807:6789" />
+            <element signature="method#mouseClicked#0;class#5807:6789" />
+            <element signature="method#mouseReleased#0;class#5807:6789" />
+            <element signature="e#6081#6271#1" />
+            <element signature="e#7459#7540#1" />
+            <element signature="e#7970#8301#1" />
+            <element signature="e#7988#8214#0" />
+            <element signature="e#8239#8291#0" />
+            <element signature="class#Option#0;class#VotePanel#0" />
+            <element signature="method#Option#0;class#Option#0;class#VotePanel#0" />
+            <element signature="method#Option#1;class#Option#0;class#VotePanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/VotePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3287">
+          <caret line="233" column="25" selection-start-line="233" selection-start-column="25" selection-end-line="233" selection-end-column="25" />
+          <folding>
+            <element signature="method#VotePage#0;class#VotePage#0" />
+            <element signature="e#1012#1114#1" />
+            <element signature="method#initialize#0;class#VotePage#0" />
+            <element signature="e#2456#2500#0" />
+            <element signature="e#4871#5406#1" />
+            <element signature="e#4923#5392#1" />
+            <element signature="e#4949#5279#0" />
+            <element signature="e#5144#5257#1" />
+            <element signature="e#5305#5374#0" />
+            <element signature="e#5458#5872#1" />
+            <element signature="e#5480#5771#0" />
+            <element signature="e#5797#5858#0" />
+            <element signature="method#addOptions#0;class#VotePage#0" />
+            <element signature="method#addComment#0;class#VotePage#0" />
+            <element signature="method#addScroll#0;class#VotePage#0" />
+            <element signature="class#Option#0;class#VotePage#0" />
+            <element signature="method#Option#0;class#Option#0;class#VotePage#0" />
+            <element signature="method#setClicked#0;class#Option#0;class#VotePage#0" />
+            <element signature="method#isClicked#0;class#Option#0;class#VotePage#0" />
+            <element signature="method#setDefault#0;class#Option#0;class#VotePage#0" />
+            <element signature="class#Comment#0;class#VotePage#0" />
+            <element signature="method#Comment#0;class#Comment#0;class#VotePage#0" />
+            <element signature="method#main#0;class#VotePage#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/comPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7714">
+          <caret line="432" column="40" selection-start-line="432" selection-start-column="40" selection-end-line="432" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Util/FileUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="56" selection-start-line="10" selection-start-column="56" selection-end-line="10" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/ServerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="47" column="35" selection-start-line="47" selection-start-column="35" selection-end-line="47" selection-end-column="35" />
+          <folding>
+            <element signature="docComment;class#ServerUtil#0" />
+            <element signature="method#stream2String#0;class#ServerUtil#0" />
+            <element signature="e#2616#2695#1" />
+            <element signature="docComment;class#Parameter#0;class#ServerUtil#0" />
+            <element signature="e#2958#3023#1" />
+            <element signature="class#HttpRequest#0;class#ServerUtil#0" />
+            <element signature="method#HttpRequest#0;class#HttpRequest#0;class#ServerUtil#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UI/panel/SharePanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3743">
+          <caret line="369" column="20" selection-start-line="369" selection-start-column="20" selection-end-line="369" selection-end-column="20" />
+          <folding>
+            <element signature="method#SharePanel#0;class#SharePanel#0" />
+            <element signature="method#initialize#0;class#SharePanel#0" />
+            <element signature="method#addButtonPanel#0;class#SharePanel#0" />
+            <element signature="method#sendRequest#0;class#SharePanel#0" />
+            <element signature="method#addMainComponent#0;class#SharePanel#0" />
+            <element signature="method#removeFile#0;class#SharePanel#0" />
+            <element signature="method#addFileListener#0;class#File#0;class#SharePanel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Server/MyWebSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="e#1152#1732#0" />
+            <element signature="e#1738#2411#0" />
+            <element signature="e#1864#1927#1" />
+            <element signature="e#1990#2310#0" />
+            <element signature="e#2160#2245#1" />
+            <element signature="e#2335#2405#0" />
+            <element signature="e#2417#2975#0" />
+            <element signature="e#2547#2616#1" />
+            <element signature="e#2629#2874#0" />
+            <element signature="e#2720#2809#1" />
+            <element signature="e#2899#2969#0" />
+            <element signature="e#2981#3167#0" />
+            <element signature="e#3051#3126#1" />
+            <element signature="e#3292#3409#0" />
+            <element signature="e#3530#3657#0" />
+            <element signature="e#3663#3782#0" />
+            <element signature="e#3908#4040#0" />
+            <element signature="e#4046#4168#0" />
+            <element signature="e#4294#4421#0" />
+            <element signature="e#4427#4551#0" />
+            <element signature="e#4557#4681#0" />
+            <element signature="e#4687#4791#0" />
+            <element signature="e#4797#4906#0" />
+            <element signature="e#4978#5238#0" />
+            <element signature="e#5089#5232#1" />
+            <element signature="e#5163#5222#1" />
+            <element signature="e#5244#9659#0" />
+            <element signature="e#5343#5415#1" />
+            <element signature="e#5428#9584#0" />
+            <element signature="e#5586#5738#1" />
+            <element signature="e#5767#9574#0" />
+            <element signature="e#5799#5985#1" />
+            <element signature="e#5850#5940#1" />
+            <element signature="e#6019#6214#1" />
+            <element signature="e#6073#6169#1" />
+            <element signature="e#6247#6439#1" />
+            <element signature="e#6300#6394#1" />
+            <element signature="e#6477#6657#1" />
+            <element signature="e#6526#6612#1" />
+            <element signature="e#6694#6892#1" />
+            <element signature="e#6749#6847#1" />
+            <element signature="e#6925#7117#1" />
+            <element signature="e#6977#7072#1" />
+            <element signature="e#7153#7336#1" />
+            <element signature="e#7203#7291#1" />
+            <element signature="e#7372#7573#1" />
+            <element signature="e#7428#7528#1" />
+            <element signature="e#7610#7805#1" />
+            <element signature="e#7664#7760#1" />
+            <element signature="e#7835#8227#1" />
+            <element signature="e#7885#8182#1" />
+            <element signature="e#8011#8112#1" />
+            <element signature="e#8262#8460#1" />
+            <element signature="e#8317#8415#1" />
+            <element signature="e#8492#8683#1" />
+            <element signature="e#8543#8638#1" />
+            <element signature="e#8717#8907#1" />
+            <element signature="e#8770#8862#1" />
+            <element signature="e#8937#9120#1" />
+            <element signature="e#8986#9075#1" />
+            <element signature="e#9151#9338#1" />
+            <element signature="e#9201#9293#1" />
+            <element signature="e#9369#9480#1" />
+            <element signature="e#9609#9653#0" />
+            <element signature="e#9665#10038#0" />
+            <element signature="e#9881#10032#1" />
+            <element signature="e#9961#10022#1" />
+            <element signature="e#10044#10191#0" />
+            <element signature="e#10197#10422#0" />
+            <element signature="e#10364#10416#1" />
+            <element signature="e#10428#10534#0" />
+            <element signature="e#10540#10652#0" />
+            <element signature="e#10658#10768#0" />
+            <element signature="e#10774#10876#0" />
+            <element signature="e#10882#10996#0" />
+            <element signature="e#11002#11113#0" />
+            <element signature="e#11119#11223#0" />
+            <element signature="e#11229#11345#0" />
+            <element signature="e#11351#11463#0" />
+            <element signature="e#11469#11646#0" />
+            <element signature="e#11652#11766#0" />
+            <element signature="e#11772#11884#0" />
+            <element signature="e#11890#11999#0" />
+            <element signature="e#12005#12110#0" />
+            <element signature="e#12116#12223#0" />
+            <element signature="e#12229#12314#0" />
+            <element signature="e#12320#12403#0" />
+            <element signature="e#12409#12498#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Client</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>org-json</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

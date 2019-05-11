@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="org-json">
+    <CLASSES>
+      <root url="file://D:/java/jar/org-json" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/java/jar/org-json" recursive="false" />
+  </library>
+</component>
